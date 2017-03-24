@@ -1,6 +1,7 @@
 ﻿using UnityEditor;
 
-public class SimpleAssetBundleBuilder  {
+public class SimpleAssetBundleBuilder  
+{
 
 	[MenuItem("Assets/AssetBundle")]
 	static void CreateStandAloneAssetBundles()

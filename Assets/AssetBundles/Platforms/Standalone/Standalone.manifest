@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3375450692
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: playgroundassets
+      Dependencies: {}

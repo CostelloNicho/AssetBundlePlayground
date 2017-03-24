@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3154432985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95da81923c080fa1a5acffa3007f4936
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c38186b5366ee5d86b8a87d710eba6eb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a199d3a3f1364a1f92e37b2324ffe3f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Prototype.prefab
+Dependencies: []
