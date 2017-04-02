@@ -19,7 +19,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4513339013854954}
-  - component: {fileID: 114998746725801436}
+  - component: {fileID: 114948451842828890}
   m_Layer: 0
   m_Name: Prototype
   m_TagString: Untagged
@@ -40,7 +40,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &114998746725801436
+--- !u!114 &114948451842828890
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -48,9 +48,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 1708076193025536}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2a199d3a3f1364a1f92e37b2324ffe3f, type: 3}
+  m_Script: {fileID: 11500000, guid: 97151cab8c1357640a98e7128a1ae017, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BundleURL: https://dl.dropboxusercontent.com/u/30493646/Assetbundles/playgroundassets
-  AssetName: downloadableasset
-  version: 0
